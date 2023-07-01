@@ -25,7 +25,7 @@ biohackathon_url:   "https://2023.biohackathon.org/"
 biohackathon_location: "Kagawa, Japan, 2023"
 group: R2
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/geedrn/nanopore_microbiome/tree/main
+git_url: [https://github.com/geedrn/bh23-nanopore-16s/tree/main/01_kraken2](https://github.com/geedrn/bh23-nanopore-16s/tree/main/01_kraken2)
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Ryo NIWA \emph{et al.}
