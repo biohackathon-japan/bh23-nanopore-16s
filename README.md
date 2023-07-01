@@ -1,3 +1,7 @@
+# Evaluation of Nanopore-based 16S rRNA gene amplicon sequencing analysis tools
+
+Please see [the link](https://github.com/biohackathon-japan/bh23-nanopore-16s/blob/main/paper/paper.md)
+
 # BioHackJP 23 Report Template
 
 Minimal example of a [BioHackrXiv](https://biohackrxiv.org/) publication that can be generated with the
